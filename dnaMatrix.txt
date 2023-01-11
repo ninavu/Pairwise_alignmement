@@ -1,0 +1,8 @@
+# DNA scoring matrix.
+# The final line contains the gap penalty.
+     A   T   G   C   
+A    5  -4  -4  -4  
+T   -4   5  -4  -4   
+G   -4  -4   5  -4   
+C   -4  -4  -4   5  
+-10
